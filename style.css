@@ -1,0 +1,98 @@
+body{
+    	
+    text-align : center;
+    margin: 0;
+    font-family: "Merriweather",serif;
+    color:#40514E;
+  }
+#JATIN{
+  background-color: #87CEFA;
+}
+    
+
+h1{
+    font-size: 562.5%;
+    font-family: "Sacramento", cursive;
+    margin-top:0;
+    color:#0000FF;
+    
+    
+}
+h2{
+  
+  font-family: 'Montserrat',sans-serif;
+  
+  color:#0000FF;
+  padding-bottom: 10px;;
+  
+  
+}
+h3{
+  
+  font-family: 'Montserrat',sans-serif;
+  color:#11999E;
+  
+  
+}
+
+#mountain{
+    
+    height: 600px;
+    width:800px;
+    display: block;
+    position: relative;
+    left:   250px;
+    top: 100px;
+    border-radius: 100%;
+    
+    
+
+}
+.center {
+    
+    width: 100px;
+    
+  }
+  #first{
+    position:relative;
+    left:180px;
+    width: 100px;
+    
+
+
+  }
+  #second{
+    position:absolute;
+    left:330px;
+    width: 100px;
+
+  }
+
+  #you{
+    height: 50%;
+    width:50%;
+  }
+ #main{
+   height:250px;
+   width:250px;
+   border-radius: 100%;
+
+ }
+  #computer{
+    height:200px;
+   width:200px;
+   border-radius: 100%;
+
+  }
+  #badminton{
+    height:200px;
+    width:200px;
+    border-radius: 100%;
+    display: inline-block;
+  }
+  #TANISH{
+   color: blueviolet;
+   height: 50px;
+   width: 180px;;
+   background-color: coral;
+  }
